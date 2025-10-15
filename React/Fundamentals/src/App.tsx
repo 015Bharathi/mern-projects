@@ -1,10 +1,10 @@
 import "./App.css";
-import JSXExamples from "./components/01-JSX/JSXExamples";
+import FunctionalComponent from "./components/02-Components/FunctionalComponent";
 
 function App() {
   return (
     <>
-      <JSXExamples />
+      <FunctionalComponent />
     </>
   );
 }
