@@ -1,11 +1,10 @@
 import "./App.css";
-import PropsExample from "./components/03-Props-and-State/PropsExample";
-
+import StateExample from "./components/03-Props-and-State/StateExample";
 
 function App() {
   return (
     <>
-      <PropsExample name="PropsExample" />
+      <StateExample />
     </>
   );
 }
