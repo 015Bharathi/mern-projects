@@ -1,10 +1,11 @@
 import "./App.css";
-import FunctionalComponent from "./components/02-Components/FunctionalComponent";
+import PropsExample from "./components/03-Props-and-State/PropsExample";
+
 
 function App() {
   return (
     <>
-      <FunctionalComponent />
+      <PropsExample name="PropsExample" />
     </>
   );
 }
