@@ -1,10 +1,10 @@
 import "./App.css";
-import EventHandlingExample from "./components/04-Event-Handling/EventHandlingExample";
+import ConditionalRenderingExample from "./components/05-Conditional-Rendering/ConditionalRenderingExample";
 
 function App() {
   return (
     <>
-      <EventHandlingExample />
+      <ConditionalRenderingExample />
     </>
   );
 }
