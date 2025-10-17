@@ -1,10 +1,10 @@
 import "./App.css";
-import StateExample from "./components/03-Props-and-State/StateExample";
+import EventHandlingExample from "./components/04-Event-Handling/EventHandlingExample";
 
 function App() {
   return (
     <>
-      <StateExample />
+      <EventHandlingExample />
     </>
   );
 }
