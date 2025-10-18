@@ -1,10 +1,10 @@
 import "./App.css";
-import ConditionalRenderingExample from "./components/05-Conditional-Rendering/ConditionalRenderingExample";
+import ListsAndKeysExample from "./components/06-Lists-and-keys/ListsAndKeysExample";
 
 function App() {
   return (
     <>
-      <ConditionalRenderingExample />
+      <ListsAndKeysExample />
     </>
   );
 }
