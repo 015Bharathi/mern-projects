@@ -1,10 +1,13 @@
 import "./App.css";
-import ListsAndKeysExample from "./components/06-Lists-and-keys/ListsAndKeysExample";
+
+import ControlledFormsExample from "./components/07-Controlled-UnControlled-Forms/ControlledFormsExample";
+import UnControlledFormsExample from "./components/07-Controlled-UnControlled-Forms/UnControlledFormsExample";
 
 function App() {
   return (
     <>
-      <ListsAndKeysExample />
+     <ControlledFormsExample />
+     <UnControlledFormsExample />
     </>
   );
 }
