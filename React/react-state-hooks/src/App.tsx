@@ -1,11 +1,11 @@
-import RefExample from "./Hooks/useRef/RefExample";
+import MemoExample from "./Hooks/useMemo/MemoExample";
+
 
 function App() {
   return (
     <>
-      <div className="card">
-        <RefExample />
-      </div>
+      <div className="card"></div>
+      <MemoExample />
     </>
   );
 }
