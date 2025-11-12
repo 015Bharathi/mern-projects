@@ -1,11 +1,11 @@
-import MemoExample from "./Hooks/useMemo/MemoExample";
-
+import CallbackExample from "./Hooks/useCallback/CallbackExample";
 
 function App() {
   return (
     <>
-      <div className="card"></div>
-      <MemoExample />
+      <div className="card">
+        <CallbackExample />
+      </div>
     </>
   );
 }
