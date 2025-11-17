@@ -1,10 +1,10 @@
-import CallbackExample from "./Hooks/useCallback/CallbackExample";
+import CustomHookExample from "./Hooks/customHook/CustomHookExample";
 
 function App() {
   return (
     <>
       <div className="card">
-        <CallbackExample />
+        <CustomHookExample />
       </div>
     </>
   );
